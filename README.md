@@ -42,7 +42,7 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 
 - [Peanut](https://www.peanut-app.io/) - Meet other parents and share experiences.
 - [r/Parenting on Reddit](https://www.reddit.com/r/Parenting/) - Honest discussions on the challenges and joys of parenting.
-- [r/Dads on Reddit](https://www.reddit.com/r/Dads] - News, tips, and humor for dads
+- [r/Dads on Reddit](https://www.reddit.com/r/Dads) - News, tips, and humor for dads
 
 ## Newsletters & Podcasts
 
