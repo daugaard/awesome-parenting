@@ -57,8 +57,7 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 
 ## Other Awesome Lists
 
-- [Awesome Kids](https://github.com/jasonbhouse/awesome-kids) - A similar list of kid-related resources.
-- [Awesome Childrenâ€™s Programming](https://github.com/jonathanwei/awesome-kids-programming) - Great intro resources for teaching kids to code.
+- [Awesome Programming for Kids ](https://github.com/HollyAdele/awesome-programming-for-kids) - Great intro resources for teaching kids to code.
 
 ---
 
