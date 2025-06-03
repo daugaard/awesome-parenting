@@ -53,7 +53,6 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 ## Books for Parents
 
 - *How to Talk So Kids Will Listen & Listen So Kids Will Talk* - Adele Faber & Elaine Mazlish  
-- *Parenting with Love and Logic* - Charles Fay & Foster Cline  
 - *The Whole-Brain Child* - Daniel J. Siegel & Tina Payne Bryson
 
 ## Other Awesome Lists
