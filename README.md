@@ -48,7 +48,8 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 
 - [The Longest Shortest Time](https://longestshortesttime.com/) - Podcast about the surprises of raising children.
 - [ParentData by Emily Oster](https://www.parentdata.org/) - Evidence-based parenting insights and data.
-- [Dad Day](https://www.dadday.co/) - Newsletter Built by Dads for Dads 
+- [Dad Day](https://www.dadday.co/) - Newsletter Built by Dads for Dads
+- [Parent Tech](https://www.parent.tech/) - Learning how parents, kids, and technology interact.
 
 ## Books for Parents
 
