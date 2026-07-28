@@ -28,6 +28,7 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 - [Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids/) - Free, educational app for early learners.
 - [Osmo](https://www.playosmo.com/) - Learning games that blend physical and digital play.
 - [Duolingo ABC](https://www.duolingo.com/abc) - Learn to read with free phonics-based lessons.
+- [ColorKind](https://colorkind.app/) - Creates personalized, age-adjusted coloring pages from children's ideas or family photos for printing at home.
 
 ## Daily Routines & Organization
 
