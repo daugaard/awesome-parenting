@@ -9,6 +9,7 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 - [Storytelling & Entertainment](#storytelling--entertainment)
 - [Learning & Development](#learning--development)
 - [Daily Routines & Organization](#daily-routines--organization)
+- [Product Buying Guides](#product-buying-guides)
 - [Health & Wellness](#health--wellness)
 - [Parenting Communities](#parenting-communities)
 - [Newsletters & Podcasts](#newsletters--podcasts)
@@ -33,6 +34,10 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 
 - [Cozi](https://www.cozi.com/) - Family calendar, to-do lists, and meal planning.
 - [OurHome](https://ourhomeapp.com/) - Shared chores and rewards system for families.
+
+## Product Buying Guides
+
+- [MamaChoice](https://mamachoice.co.il/) - Freely accessible Hebrew buying guides for baby products and parent accessories, focused on AliExpress shopping with delivery to Israel. Includes affiliate links.
 
 ## Health & Wellness
 
