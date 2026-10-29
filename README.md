@@ -9,6 +9,7 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 - [Storytelling & Entertainment](#storytelling--entertainment)
 - [Learning & Development](#learning--development)
 - [Daily Routines & Organization](#daily-routines--organization)
+- [Digital Safety & Screen Time](#digital-safety--screen-time)
 - [Health & Wellness](#health--wellness)
 - [Parenting Communities](#parenting-communities)
 - [Newsletters & Podcasts](#newsletters--podcasts)
@@ -33,6 +34,10 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 
 - [Cozi](https://www.cozi.com/) - Family calendar, to-do lists, and meal planning.
 - [OurHome](https://ourhomeapp.com/) - Shared chores and rewards system for families.
+
+## Digital Safety & Screen Time
+
+- [Ripple (æ¶Ÿæ¼ª)](https://ripplefocus.github.io/) - Parental screen-time and app blocker for Android and iOS 16+. On Android it can run as Device Owner so kids cannot uninstall it or change the system clock; on iPhone it uses FamilyControls with denyAppRemoval, DeviceActivity schedules, and an 8-digit parent code. Can block Shorts, Reels, and WeChat Channels while keeping chat. Local-only, free IPA/APK.
 
 ## Health & Wellness
 
