@@ -22,6 +22,7 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 - [Talea](https://readtalea.com) - âœ¨ AI-powered storytelling app that helps families create magical, personalized stories with beautiful illustrations and engaging narration.
 - [PBS Kids Games](https://pbskids.org/games/) - Fun, educational games featuring popular characters.
 - [Tonies](https://us.tonies.com/) - Screen-free audio storytelling toy for young kids.
+- [Doodara](https://www.doodara.com) - Free AI picture-book maker that turns a story idea or a photo of your child into an illustrated storybook starring them; read it as a flipbook or print it as a PDF.
 
 ## Learning & Development
 
