@@ -37,6 +37,7 @@ A curated list of awesome tools, apps, books, and resources for modern parents â
 ## Health & Wellness
 
 - [Parenting Translator](https://parentingtranslator.org/) - Science-backed advice from a developmental psychologist.
+- [Shishur Jotno](https://shishurjotno.com/) - Free Bangla-language site on baby care for ages 0â€“2 and pregnancy, based on WHO, UNICEF and Bangladesh DGHS guidance.
 
 ## Parenting Communities
 
